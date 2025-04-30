@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+  max-width: 700px;
+}
+
+header, footer {
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+a {
+  color: #0057b8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
